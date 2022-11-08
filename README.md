@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 ## 1) Install Node Js
 -- Windows https://youtu.be/4Wq53LL4alQ
 -- Mac https://youtu.be/SwUKKCS3r3c
