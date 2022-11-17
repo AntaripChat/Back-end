@@ -24,6 +24,8 @@ About VS code -> https://g.co/kgs/wwkHhE
 -- https://www.freecodecamp.org/learn/back-end-development-and-apis/
 -- https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
 
+## 5) About JWT
+-- https://youtu.be/7Q17ubqLfaM
 
 Read this article 
 ---- https://hevodata.com/learn/mongodb-javascript/
