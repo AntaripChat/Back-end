@@ -29,3 +29,6 @@ About VS code -> https://g.co/kgs/wwkHhE
 
 Read this article 
 ---- https://hevodata.com/learn/mongodb-javascript/
+
+
+---- https://dev.to/nodedoctors/nodejs-visualized-promise-asyncawait-and-processnexttick-under-the-hood-234c
