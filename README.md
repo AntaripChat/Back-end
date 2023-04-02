@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 
-## https://discord.gg/qgcCXx4F join this server 
+<!--## https://discord.gg/qgcCXx4F join this server -->
 
 ---------------- Backend development ------------
 
